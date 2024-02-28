@@ -5,6 +5,7 @@
 public class Main {
   public static void main(String[] args) {
     System.out.println("cześć grzesiek kolego");
+    System.out.println("Nara Grzesiek");
   }
 
   // @Test
